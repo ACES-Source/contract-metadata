@@ -1,4 +1,12 @@
 {
+  "0x3d5d971608085983863Ab12C3c738B6fe5428FB4": {
+    "name": "Ethereum",
+    "logo": "eth.svg",
+    "erc20": true,
+    "symbol": "ETH",
+    "decimals": 18 
+
+  },
   "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
     "name": "Genieswap",
     "logo": "Genieswap.svg",
